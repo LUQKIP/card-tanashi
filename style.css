@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+.container {}
+
+
+.profil {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.name {
+    font-size: 80px;
+    display: flex;
+    transform: translate(0px, -80px);
+    color: rgb(100, 183, 255);
+    justify-self: center;
+    font-family: Vampiro One
+}
+
+.Content {
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.CS_i {
+    border: 1px solid black;
+    margin-inline-start: 10px;
+    border-radius: 50%;
+}
